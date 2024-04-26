@@ -1,22 +1,15 @@
 export const scaleFactor = 4;
 export const dialogueData = {
-    pc: `This is my PC. I work mostly in JavaScript/TypeScript these days.
-      I've made a couple of games in that language. I also like Golang and Python. Anyway regardless of the language, I just like programming.
-      Here is my <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
-    "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
-    "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
-    I also make game programming tutorials on YouTube. Go sub to <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the content)
-    You'll learn how I built this portfolio you're currently playing through!`,
+    pc: `This is my PC. I work mostly in JavaScript and all the front-end stack but I am also interest in data analysis.
+    If you want to see my projects, here is my <a href="https://github.com/Saaras225" target="_blank">Github</a>!`,
+    "cs-degree": `My main career is as Librarian and then I became developer thanks to a women bootcamp called Laboratoria which is very present in all LATAM`,
+    "sofa-table": `That's my sofa. I want you to know more a little about me, I like to read, watch movies and right now I'm enjoying very much painting and making pottery. 
+    I also love music and this is one of my favorite singers <a href="https://www.youtube.com/watch?v=pqnMkUcTmys" target="_blank">Eivor</a> (If you like to see).`,
     tv: `That's my TV. I've been watching tech youtubers a lot recently like :
-     <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
-    <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> (sometimes) and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
-    bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-    resume: `This is my desk and on it is my resume. <a href="https://github.com/JSLegendDev/Resume/blob/main/JSLegend%20Resume-1.pdf" target="_blank">Check it out?</a>
-    Contact me at jslegend@protonmail.com if you have any interesting job opportunities!`,
-    projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-    Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Learn more about how to use
-    Kaboom.js by watching some of my tutorials <a href="https://youtube.com/@jslegenddev" target="_blank">here</a>.`,
-    library: `There are a lot of programming books on my shelves. There is even one in French (I also speak French btw).
-    I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
-    exit: `If you want to exit JSLegendDev's portfolio, just close the tab.`,
+     <a href="https://www.youtube.com/watch?v=wTpuKOhGfJE&list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7" target="_blank">Midudev</a>, <a href="https://www.youtube.com/watch?v=duNEnLUxie8" target="_blank">Web Dev Simplified</a>,`,
+    bed: `This is where I sleep. and is one of the places I REALLY REALLY enjou when is winter which is my FAVORITE season`,
+    resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1f5T5yk8jybEtr9pof1GSA0chQAD02T2c/view?usp=drive_link" target="_blank">Check it out</a>`,
+    projects: `y este es mi cv en espanol por si quieres verlo. <a href="https://drive.google.com/file/d/1WAuHqp6rtny1IDCGloIYqm32Mx4sgnrP/view?usp=drive_link" target="_blank">Revisar</a> `,
+    library: `There are a lot of books on my shelves. You cand fin books in spanish (native), english which I speak fluently and also in french (basic) I'm still learning.`,
+    exit: `If you want to exit from this portfolio, just close the tab.`,
   };
